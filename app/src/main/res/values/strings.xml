@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">koopon</string>
+
+    <string name="facebook_app_id">134180130633571</string>
+
+    <string name="fb_login_protocol_scheme">fb134180130633571</string>
+
+    <string name="cancel_toast">Ha cancelado el inicio de sesión</string>
+
+    <string name="error_toast">Ha currido un error, por favor vuelva a intentearlo</string>
+
+</resources>
