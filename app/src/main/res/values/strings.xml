@@ -9,4 +9,6 @@
 
     <string name="error_toast">Ha currido un error, por favor vuelva a intentearlo</string>
 
+    <string name="firebase_error">Ocurrió un error al iniciar sesion</string>
+
 </resources>

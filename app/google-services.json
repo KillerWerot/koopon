@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130530362752",
+    "firebase_url": "https://koopon-c5a35.firebaseio.com",
+    "project_id": "koopon-c5a35",
+    "storage_bucket": "koopon-c5a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130530362752:android:e5ba4a5db99227ba",
+        "android_client_info": {
+          "package_name": "com.ludoproductions.koopon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130530362752-bs98v77sumg7r2jo11vkbnqggmh25np5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ludoproductions.koopon",
+            "certificate_hash": "f53c77ce5c16c42abad6da5b9c211a74852097d7"
+          }
+        },
+        {
+          "client_id": "130530362752-6q7oehhma7vcj1bbsfjsa6bdnb0dsn3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5dHArXQHWGrv1zTHR6FcJDuTRgHiJ5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130530362752-6q7oehhma7vcj1bbsfjsa6bdnb0dsn3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
